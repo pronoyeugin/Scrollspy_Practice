@@ -1,0 +1,19 @@
+  body {
+    position: relative; 
+  }
+  #section1{
+    min-height: 100vh;
+    padding:100px 20px;
+  }
+  #section2{
+    min-height: 100vh;
+    padding:100px 20px;
+  }
+  #section3{
+    min-height: 100vh;
+    padding:100px 20px;
+  }
+  #section4{
+    min-height: 100vh;
+    padding:100px 20px;
+  }
